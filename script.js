@@ -1,5 +1,5 @@
 // Add a real professional email here when you are ready.
-const CONTACT_EMAIL = "";
+const CONTACT_EMAIL = "saniayaqub982@gmail.com";
 
 const menuButton = document.querySelector(".menu");
 const nav = document.querySelector(".nav-links");
