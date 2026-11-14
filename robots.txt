@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sania5257.github.io/SANIA-YAQUB/sitemap.xml
